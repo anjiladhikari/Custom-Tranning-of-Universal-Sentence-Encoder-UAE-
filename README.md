@@ -11,10 +11,7 @@
  * [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
  * [Guide To Universal Sentence Encoder With TF](https://analyticsindiamag.com/guide-to-universal-sentence-encoder-with-tensorflow/)
  * [Word Embedding using Universal Sentence Encoder in Python](https://www.geeksforgeeks.org/word-embedding-using-universal-sentence-encoder-in-python/)
- * []()
- * []()
- 
- 
+
  
 Semantic Similarity
 ![image](https://user-images.githubusercontent.com/21165474/210224341-4eafe6a5-aead-46cb-a8bc-182c21e338bc.png)
