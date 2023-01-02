@@ -11,4 +11,10 @@
  * []()
  * []()
  
+ 
+ 
+Semantic Similarity
+![image](https://user-images.githubusercontent.com/21165474/210224341-4eafe6a5-aead-46cb-a8bc-182c21e338bc.png)
 
+Classification
+![image](https://user-images.githubusercontent.com/21165474/210224347-1f033ae3-9004-4ab5-bee3-24d07dd86483.png)
