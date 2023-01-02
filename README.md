@@ -8,8 +8,8 @@
 ](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)
  * [Tf Hub Universal Sentence Encoder family](https://tfhub.dev/google/universal-sentence-encoder/4)
  * [Use-cases of Google’s Universal Sentence Encoder in Production](https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15)
- * []()
- * []()
+ * [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
+ * [Guide To Universal Sentence Encoder With TensorFlow](https://analyticsindiamag.com/guide-to-universal-sentence-encoder-with-tensorflow/)
  * []()
  
  
