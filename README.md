@@ -10,7 +10,7 @@
  * [Use-cases of Google’s Universal Sentence Encoder in Production](https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15)
  * [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
  * [Guide To Universal Sentence Encoder With TF](https://analyticsindiamag.com/guide-to-universal-sentence-encoder-with-tensorflow/)
- * []()
+ * [Word Embedding using Universal Sentence Encoder in Python](https://www.geeksforgeeks.org/word-embedding-using-universal-sentence-encoder-in-python/)
  * []()
  * []()
  
