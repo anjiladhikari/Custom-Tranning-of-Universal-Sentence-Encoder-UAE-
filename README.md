@@ -6,7 +6,7 @@
  * [Universal Sentence Encoder | Semantic Textual Similarity Task Example
 ](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)
  * [Tf Hub Universal Sentence Encoder family](https://tfhub.dev/google/universal-sentence-encoder/4)
- * []()
+ * [Use-cases of Google’s Universal Sentence Encoder in Production](https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15)
  * []()
  * []()
  * []()
