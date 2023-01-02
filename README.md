@@ -4,7 +4,8 @@
  ## Important link of USE
  * [Universal Sentence Encoder Visually Explained]()
  * [](https://amitness.com/2020/06/universal-sentence-encoder/)
- * []()
+ * [Universal Sentence Encoder | Semantic Textual Similarity Task Example
+](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)
  * []()
  * []()
  * []()
